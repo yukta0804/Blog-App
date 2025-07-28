@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:layout_marginBottom="8dp"
+    android:elevation="2dp"
+    android:backgroundTint="#FFFFFF">
+
+    <!-- News Title -->
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Blog Title"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#212121"
+        android:layout_marginBottom="6dp" />
+
+    <!-- News Description -->
+    <TextView
+        android:id="@+id/txtDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Blog description goes here..."
+        android:textSize="14sp"
+        android:textColor="#424242"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Uploaded By Info -->
+    <TextView
+        android:id="@+id/txtUploadedBy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Uploaded by Admin"
+        android:textSize="12sp"
+        android:textColor="#757575"
+        android:gravity="end" />
+</LinearLayout>

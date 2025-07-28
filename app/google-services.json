@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "995668166620",
+    "firebase_url": "https://bolgapp-54c3f-default-rtdb.firebaseio.com",
+    "project_id": "bolgapp-54c3f",
+    "storage_bucket": "bolgapp-54c3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995668166620:android:1afed45a7c58de8d683119",
+        "android_client_info": {
+          "package_name": "com.example.blogapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1YcPxEk_NAwJ74JTmy32j5JGm8kZI01Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
